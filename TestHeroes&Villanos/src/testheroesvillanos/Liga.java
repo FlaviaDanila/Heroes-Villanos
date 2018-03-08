@@ -21,7 +21,7 @@ public class Liga extends Enfrentable {
         
     }
 
-    @Override
+        @Override
     public float getFuerza() {
     float suma = 0;
     for(Enfrentable e : enfrentables)

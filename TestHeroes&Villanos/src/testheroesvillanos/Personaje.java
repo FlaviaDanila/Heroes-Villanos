@@ -15,7 +15,7 @@ public class Personaje extends Enfrentable {
         
     }
 
-    @Override
+        @Override
     public float getFuerza() {
         return this.fuerza;
     }
