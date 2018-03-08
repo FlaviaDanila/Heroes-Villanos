@@ -23,7 +23,10 @@ public class Liga extends Enfrentable {
 
     @Override
     public float getFuerza() {
-        return this.getFuerza();
+    float suma = 0;
+    for(Enfrentable e : enfrentables)
+        suma += e.getFuerza();
+        return suma/(float)enfrentables.size();
     }
     
     public void addEnfrentable(Enfrentable e) {
