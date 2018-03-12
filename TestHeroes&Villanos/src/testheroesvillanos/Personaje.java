@@ -2,6 +2,7 @@
 package testheroesvillanos;
 
 /**
+ * 
  * @author Yaki's
  */
 
@@ -12,7 +13,7 @@ public class Personaje extends Enfrentable {
     //private String bando;
 
     public Personaje(String nombre, float fuerza /*String bando*/) {
-        
+    
     }
 
         @Override
