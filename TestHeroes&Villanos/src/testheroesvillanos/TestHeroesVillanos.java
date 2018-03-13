@@ -3,22 +3,25 @@ package testheroesvillanos;
 /**
  * @author Yaki's
  */
+
 public class TestHeroesVillanos {
 
     public static void main(String[] args) {
-
-        Enfrentable dosFantasticos = new Liga("Los Dos Fantásticos");
+        
+        Enfrentable theAvengers = new Liga("The Avengers");
+        Enfrentable capitanAmerica = new Personaje("Capitán América", 3);
         Enfrentable mole = new Personaje("Mole", 4);
-        Enfrentable hombreInvisible = new Personaje("El Hombre Invisible", 3);
-
-        dosFantasticos.addEnfrentable(mole);
-        dosFantasticos.addEnfrentable(hombreInvisible);
-
-        Enfrentable ligaJusticia = new Liga("Liga de la Justicia");
-        Enfrentable batman = new Personaje("Batman", 10);
-
-        ligaJusticia.addEnfrentable(dosFantasticos);
-        ligaJusticia.addEnfrentable(batman);
+        
+        theAvengers.addEnfrentable(capitanAmerica);
+        theAvengers.addEnfrentable(mole);
+        
+        Enfrentable caballeroOscuridad = new Liga("Caballero de la Oscuridad");
+        Enfrentable batman = new Personaje("Batmam", 10);
+        
+        caballeroOscuridad.addEnfrentable(theAvengers);
+        caballeroOscuridad.addEnfrentable(batman);
+        
+        
 
     }
 

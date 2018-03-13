@@ -18,7 +18,7 @@ public class Liga extends Enfrentable {
     private List<Enfrentable> enfrentables;
     
     public Liga(String nombre) {
-        
+        super.Enfrentable(nombre);
     }
 
         @Override
