@@ -41,6 +41,8 @@ public class TestHeroesVillanos {
         //Desde mi compu anduvo la consola ._. jaja
         // Bueno a ver si le anda al PANA ahora??? :P
         // .........
+        //Para el fran que lo mira por la tv!! 
+        //Ese soy yo el pana
     }
 
 }
