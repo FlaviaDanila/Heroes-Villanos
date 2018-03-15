@@ -25,8 +25,15 @@ public class TestHeroesVillanos {
         //Nare estuvo aquí
         //NareLovers ♥ ahre
         //juan2
+<<<<<<< HEAD
+        //que alguien arregle este programa ;(
+=======
         //Antes que Fran y el Pana, yo!
+<<<<<<< HEAD
         //Todos antes que ellos, tardan mil años xD
+=======
+>>>>>>> master
+>>>>>>> master
     }
 
 }
