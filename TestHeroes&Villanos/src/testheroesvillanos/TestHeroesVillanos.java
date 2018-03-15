@@ -27,22 +27,16 @@ public class TestHeroesVillanos {
         //Nicolás //
         //juan2
         //que alguien arregle este programa ;(
-        //Antes que Fran y el Pana, yo!
-<<<<<<< HEAD
-
-        
+        //Antes que Fran y el Pana, yo!   
         //Nicolás 2//
-
         //Todos antes que ellos, tardan mil años xD
         //les falta mucho?
-
         //dale viejoooo
-
-=======
         //Nicolás 2//
         //Todos antes que ellos, tardan mil años xD
         //les falta mucho?
->>>>>>> master
+        
+        //basta chicos, me fui!
     }
 
 }
