@@ -36,7 +36,11 @@ public class TestHeroesVillanos {
 =======
         //Todos antes que ellos, tardan mil años xD
         //les falta mucho?
+<<<<<<< Updated upstream
 >>>>>>> master
+=======
+        //dale viejoooo
+>>>>>>> Stashed changes
     }
 
 }
