@@ -30,17 +30,15 @@ public class TestHeroesVillanos {
         //juan2
         //que alguien arregle este programa ;(
         //Antes que Fran y el Pana, yo!
-<<<<<<< HEAD
+
         
         //Nicolás 2//
-=======
+
         //Todos antes que ellos, tardan mil años xD
         //les falta mucho?
-<<<<<<< Updated upstream
->>>>>>> master
-=======
+
         //dale viejoooo
->>>>>>> Stashed changes
+
     }
 
 }
