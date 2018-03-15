@@ -37,7 +37,7 @@ public class TestHeroesVillanos {
         //les falta mucho?
         
         //basta chicos, me fui!
-        //FRAN <3
+        //FRAN :3
     }
 
 }
