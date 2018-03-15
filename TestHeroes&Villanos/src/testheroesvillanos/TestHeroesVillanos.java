@@ -22,7 +22,8 @@ public class TestHeroesVillanos {
         caballeroOscuridad.addEnfrentable(batman);
         
         //aca estuvo juanito
-        //Nare estubo aquí
+        //Nare estuvo aquí
+        //NareLovers ♥ ahre
 
     }
 
